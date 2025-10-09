@@ -1,6 +1,6 @@
 /* The first C program */
 
-#include <stdio.h>
+#include <stdio.h>//
 
 int main (){
 	printf("Hello World!\n Bye Bye"); /*funzione presa in prestito dalla libreria stdio, tra parentesi tonde cè quello che deve stampare, ovvero una sequenza di caratteri (stringa).*/

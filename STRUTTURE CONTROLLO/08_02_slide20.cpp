@@ -10,5 +10,5 @@ int main(){
 		}
 	scanf("%d", &num);
 	}while(num!=sentinella);
-	printf("%d", mult);
+	printf("%d", mult);//
 }

@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\MATRICI\\ConsoleApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\MATRICI\\sesto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\MATRICI\\quinto.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\MATRICI\\quarto.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sesto.cpp",
+              "DocumentMoniker": "C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\MATRICI\\sesto.cpp",
+              "RelativeDocumentMoniker": "..\\sesto.cpp",
+              "ToolTip": "C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\MATRICI\\sesto.cpp",
+              "RelativeToolTip": "..\\sesto.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-14T18:58:28.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "quinto.c",
+              "DocumentMoniker": "C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\MATRICI\\quinto.c",
+              "RelativeDocumentMoniker": "..\\quinto.c",
+              "ToolTip": "C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\MATRICI\\quinto.c",
+              "RelativeToolTip": "..\\quinto.c",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-14T18:44:24.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "quarto.c",
+              "DocumentMoniker": "C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\MATRICI\\quarto.c",
+              "RelativeDocumentMoniker": "..\\quarto.c",
+              "ToolTip": "C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\MATRICI\\quarto.c",
+              "RelativeToolTip": "..\\quarto.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-14T18:39:56.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

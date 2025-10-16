@@ -1,14 +1,18 @@
 #include <stdio.h>
 #include <string.h>
 #define MAX_CORS 30
-
+#define maxstud 10
+#define NumeroIscritti 10	
+#define maxclassi 5
+/*
+*/
 typedef struct{
 	char NomeStudente[10];
 	char CognomeStudente [10];
 	int Eta;
-}Studenti;
+}Studente;
 
-typedef struct{
+/*typedef struct{
 	char Lingua[10];
 	int Livello;
 	int NumeroIscritti;
@@ -18,16 +22,31 @@ typedef struct{
 
 typedef struct{
 	Corso corsi[MAX_CORS];
-}ScuolaLingue;
+}ScuolaLingue;*/
+typedef struct { char lingua[10] ;
+    int liv;
+    int numiscritti;
+    char nomeinsegn[15];    
+	Studente alunni[maxstud];
+} Classe ;
+//Scrivere in linguaggio C la parte di algoritmo per calcolare l’età media degli studenti iscritti ai corsi di lingua inglese (supponendo di aver inizializzato la variabile ScuolaLingue con le informazioni relative a 30 corsi).
 
 int main(){
-	ScuolaLingue cesaris;
-	ScuolaLingue.corsi[0].Lingua = "Inglese";
-	ScuolaLingue.corsi[0].Livello = 2;
-	ScuolaLingue.corsi[0].NomeInsegnante ="Mr.Jones";
-	ScuolaLingue.corsi[0].NumeroIscritti = 10;
-	int i=0, somma=0,cont=0,media=0;
-	for(i=0;i<NumeroIscritti;i++){
-		somma = somma + Corso.studenti[i].Eta;
-	} 
+	Classe ScuolaLingue[maxclassi];
+	int sommaeta=0,conta=0,i=0,j=0;
+	float mediaeta;
+	for(i=0;i<maxclassi;i++){
+			if(strcmp(ScuolaLingue[i].lingua,"Inglese")==0){
+				for(j=0;j<ScuolaLingue[i].numiscritti;j++){
+					sommaeta=sommaeta+ScuolaLingue[i].alunni[j].Eta;
+					conta++;
+				}
+			} 
+	}
+	mediaeta=(float)sommaeta/conta;
+	printf("L'età media degli studenti iscritti ai corsi di lingua inglese è: %f",mediaeta);
+
+	return 0;
+
 }
+

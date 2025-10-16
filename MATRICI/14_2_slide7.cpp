@@ -21,7 +21,9 @@ int main(){
 				}
 			}
 		}
+
 	}
+	printf("Matrice B:\n");
 	for(i=0;i<=k;i++){
 		if(i<k){
 			for(j=0;j<C;j++){

@@ -9,6 +9,7 @@ https://www.dropbox.com/s/be6rv6bv90caqud/testoConAstrazione.cpp?dl=0
 contiene la definizione dei tipi dati e l'allocazione di due percorsi (per1 inizializzato con 8 coordinate e per2, non inizializzato) e di una matrice mat di caratteri 8x8. Si noti che il percorso non è valido rispetto alla matrice perché contiene due punti con coordinate negative e un punto con riga=8 (che non esiste).
 */
 #include <stdio.h>
+#include "../../../../../../../../../Program Files (x86)/Windows Kits/10/Include/10.0.26100.0/ucrt/stdio.h"
 
 
 #define N 100
@@ -24,9 +25,10 @@ typedef struct {int numeroCoordinate;
 
 
 int main(){
-	int i;
+	int i,j=0,x,y;
 	percorso per1={8,{{0,0},{0,-4},{2,6},{4,5},{3,1},{7,2},{8,2},{2,-4}}};
 	percorso per2;
+	char parola[64];
 	char mat[M][M]={'B','R','S','P','E','E','F','A',
                     'Y','V','K','W','F','H','H','W',
                     'J','C','S','I','E','R','R','F',
@@ -37,14 +39,36 @@ int main(){
                     'X','R','O','L','E','N','T','Y'};
 	
 	//scrivere qui le chiamate a funzione
+	per2.numeroCoordinate=0;
 	for(i=0;i<per1.numeroCoordinate;i++){
 		printf("(%d,%d)",per1.coordinate[i].x,per1.coordinate[i].y);
 	}
 	for(i=0;i<per1.numeroCoordinate;i++){
-		if((per1.coordinate[i].x < 0 || per1.coordinate[i].x >7) || (per1.coordinate[i].y < 0 || per1.coordinate[i].y >7)){
-			
+		if((per1.coordinate[i].x >= 0 && per1.coordinate[i].x <8) && (per1.coordinate[i].y >=
+		 0 && per1.coordinate[i].y <8)){
+			per2.numeroCoordinate++;
+			per2.coordinate[j].x=per1.coordinate[i].x;
+			per2.coordinate[j].y=per1.coordinate[i].y;
+			j++;
 		}
 	}
+	printf("\n");
+	for(i=0;i<per2.numeroCoordinate;i++){
+		printf("(%d,%d)",per2.coordinate[i].x,per2.coordinate[i].y);
+	}
+	printf("\n");
+	/*for(i=0;i<per2.numeroCoordinate;i++){
+		printf("%c",mat[per2.coordinate[i].x][per2.coordinate[i].y]);
+	}*/
+	for(i=0;i<per2.numeroCoordinate;i++){
+		x=per2.coordinate[i].x;
+		y=per2.coordinate[i].y;
+		parola[i]=mat[x][y];
+		//printf("%c",mat[per2.coordinate[i].x][per2.coordinate[i].y]);
+	}
+	parola[i]='\0';
+	printf("%s",parola);
+	return 0;
 }
 
 

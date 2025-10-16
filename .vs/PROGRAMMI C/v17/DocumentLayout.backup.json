@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\STRUCT-TYPEDEF\\15_1_slide25.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:STRUCT-TYPEDEF\\15_1_slide25.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\STRUCT-TYPEDEF\\15_2_slide2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:STRUCT-TYPEDEF\\15_2_slide2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\STRUCT-TYPEDEF\\15_2_slide13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:STRUCT-TYPEDEF\\15_2_slide13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\STRUCT-TYPEDEF\\15_2_slide19.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:STRUCT-TYPEDEF\\15_2_slide19.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\prova.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:prova.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\MATRICI\\sesto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MATRICI\\sesto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\MATRICI\\14_2_slide15var.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MATRICI\\14_2_slide15var.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\MATRICI\\quarto.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MATRICI\\quarto.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,6 +47,96 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "15_1_slide25.cpp",
+              "DocumentMoniker": "C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\STRUCT-TYPEDEF\\15_1_slide25.cpp",
+              "RelativeDocumentMoniker": "STRUCT-TYPEDEF\\15_1_slide25.cpp",
+              "ToolTip": "C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\STRUCT-TYPEDEF\\15_1_slide25.cpp",
+              "RelativeToolTip": "STRUCT-TYPEDEF\\15_1_slide25.cpp",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAACoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-15T15:30:55.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "15_2_slide2.cpp",
+              "DocumentMoniker": "C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\STRUCT-TYPEDEF\\15_2_slide2.cpp",
+              "RelativeDocumentMoniker": "STRUCT-TYPEDEF\\15_2_slide2.cpp",
+              "ToolTip": "C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\STRUCT-TYPEDEF\\15_2_slide2.cpp",
+              "RelativeToolTip": "STRUCT-TYPEDEF\\15_2_slide2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-15T15:30:54.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "15_2_slide13.cpp",
+              "DocumentMoniker": "C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\STRUCT-TYPEDEF\\15_2_slide13.cpp",
+              "RelativeDocumentMoniker": "STRUCT-TYPEDEF\\15_2_slide13.cpp",
+              "ToolTip": "C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\STRUCT-TYPEDEF\\15_2_slide13.cpp",
+              "RelativeToolTip": "STRUCT-TYPEDEF\\15_2_slide13.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-15T15:30:51.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "15_2_slide19.cpp",
+              "DocumentMoniker": "C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\STRUCT-TYPEDEF\\15_2_slide19.cpp",
+              "RelativeDocumentMoniker": "STRUCT-TYPEDEF\\15_2_slide19.cpp",
+              "ToolTip": "C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\STRUCT-TYPEDEF\\15_2_slide19.cpp",
+              "RelativeToolTip": "STRUCT-TYPEDEF\\15_2_slide19.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-15T15:30:48.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sesto.cpp",
+              "DocumentMoniker": "C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\MATRICI\\sesto.cpp",
+              "RelativeDocumentMoniker": "MATRICI\\sesto.cpp",
+              "ToolTip": "C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\MATRICI\\sesto.cpp",
+              "RelativeToolTip": "MATRICI\\sesto.cpp",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwCcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-15T15:11:54.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "prova.cpp",
+              "DocumentMoniker": "C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\prova.cpp",
+              "RelativeDocumentMoniker": "prova.cpp",
+              "ToolTip": "C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\prova.cpp",
+              "RelativeToolTip": "prova.cpp",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-15T14:36:28.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "14_2_slide15var.cpp",
+              "DocumentMoniker": "C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\MATRICI\\14_2_slide15var.cpp",
+              "RelativeDocumentMoniker": "MATRICI\\14_2_slide15var.cpp",
+              "ToolTip": "C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\MATRICI\\14_2_slide15var.cpp",
+              "RelativeToolTip": "MATRICI\\14_2_slide15var.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-14T20:24:29.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "quarto.c",
               "DocumentMoniker": "C:\\Users\\aleca\\Documents\\INGEGNERIA MATEMATICA\\I ANNO\\I SEMESTRE\\INFORMATICA\\PROGRAMMI C\\MATRICI\\quarto.c",
               "RelativeDocumentMoniker": "MATRICI\\quarto.c",
@@ -26,8 +144,7 @@
               "RelativeToolTip": "MATRICI\\quarto.c",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-14T18:16:05.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T18:16:05.203Z"
             }
           ]
         }

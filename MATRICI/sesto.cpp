@@ -37,4 +37,5 @@ int main() {
 	}else{
 		printf("Il numero che si ripete di piu' e' %d, che si ripete %d volte", max_val, max);
 	}
+	return 0;
 }

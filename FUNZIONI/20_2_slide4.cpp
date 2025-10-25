@@ -55,10 +55,30 @@ Somme ft(VT A){
 	return result;
 
 };
+//con i puntatori
+Somme ft(VT *A){
+	int i=0,somma_pari=0,somma_dispari=0;
+	for(i=0;i<10;i++){
+		if(i%2==0){
+			somma_pari=somma_pari+(*A)[i];
+		}else{
+			somma_dispari=somma_dispari+(*A)[i];
+		}
+	}
+	
+	int sommatoria = somma_pari+somma_dispari;
+	Somme result;
+	result.a = somma_pari;
+	result.b = somma_dispari;
+	printf("Somma posti pari: %d\n",somma_pari);
+	printf("Somma posti dispari: %d\n",somma_dispari);
+	printf("Sommatoria: %d\n",sommatoria);
+	return result;
 
+};
 int main(){
 
 	VT ciao={1,3,2,4,6,7,4,3,2,1};
 	
-	ft(ciao);
+	ft(&ciao);
 }

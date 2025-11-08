@@ -79,6 +79,17 @@ Somme ft(VT *A){
 int main(){
 
 	VT ciao={1,3,2,4,6,7,4,3,2,1};
-	
+	int i,j;
 	ft(&ciao);
+	for  (i = 0; i < 10; i++)
+	{
+		for  (j = 0; j < count; j++)
+		{
+			
+
+		}
+		
+		printf("%d ", ciao[i]);
+	}
+	
 }

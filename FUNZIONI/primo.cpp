@@ -10,6 +10,7 @@ int sommaDivisori(int num);
 int controllaSePerfetto(int num);*/
 
 #include <stdio.h>
+#include <math.h>
 int sommaDivisori(int num);
 void controllaSePerfetto(int num);
 
@@ -22,23 +23,28 @@ int main(){
 	controllaSePerfetto(n);
 }
 int sommaDivisori(int num){
-	int i,somma=1;
-	for(i=2;i<=(num/2);i++){
-		if(num%i==0){
-			somma= somma+i;
+	int i, somma = 1;
+	int limite = (int)sqrt(num);
+	
+	for(i = 2; i <= limite; i++){
+		if(num % i == 0){
+			somma += i;
+			if(i != num/i){
+				somma += num/i;
+			}
 		}
 	}
 	return somma;
 }
 
 void controllaSePerfetto(int num){
-	int perfetto=0;
-	if(sommaDivisori(num)==num){
-		perfetto=1;
+	int somma = sommaDivisori(num);
+	
+	if(somma == num){
 		printf("Il numero è perfetto");
-	}else if(sommaDivisori(num)<num){
+	}else if(somma < num){
 		printf("Il numero è abbondante");
 	}else{
 		printf("Il numero è difettivo");
 	}
-}
+}
